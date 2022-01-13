@@ -12,5 +12,4 @@ Estudante da LINUXtips no projeto Ubuntu.
 
 
 ### Contato
-Você pode encontrar minhas redes sociais em: (https://linktr.ee/nataliagranato) ou me enviar uma carta
 - 📫 techpreta@gmail.com
