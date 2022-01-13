@@ -9,7 +9,7 @@ Estudante da LINUXtips no projeto Ubuntu.
 - ⚡ Podcaster, Streamer da Kanin Gaming e integrante da Wakanda Streamers
 ```
 
-Politicamente Preto | Podcast on Spotify https://spoti.fi/3HQtedS
+Politicamente Preto Podcast on Spotify https://spoti.fi/3HQtedS
 
 
 ### Contato
