@@ -10,7 +10,7 @@ Estudante da LINUXtips no projeto Ubuntu.
 
 [Politicamente Preto Podcast] on Spotify (https://spoti.fi/3HQtedS>) o debate político da comunidade preta!
 
-<iframe src="https://spoti.fi/3HQtedS/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/politicamente-preto/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ### Contato
 - 📫 techpreta@gmail.com
